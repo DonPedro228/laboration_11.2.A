@@ -1,0 +1,5 @@
+﻿  laboration_11.2.A.cpp
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_11.2 A\laboration_11.2.A.cpp(154,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_11.2 A\laboration_11.2.A.cpp(171,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_11.2 A\laboration_11.2.A.cpp(188,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  laboration_11.2 A.vcxproj -> C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_11.2 A\x64\Debug\laboration_11.2 A.exe
